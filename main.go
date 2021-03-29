@@ -11,7 +11,7 @@ import (
 func main() {
 	rand.Seed(time.Now().UnixNano())
 
-	number := rand.Intn(len(quotes.Quotes))
+	randomNumber := rand.Intn(len(quotes.Quotes))
 
-	fmt.Println(quotes.Quotes[number])
+	fmt.Println(quotes.Quotes[randomNumber])
 }
