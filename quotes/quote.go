@@ -1,5 +1,6 @@
 package quotes
 
+// array that contain quotes
 var Quotes = []string{
 	"I learn something every time I go into the mountains.",
 	"There is nothing like a dream to create the future.",
