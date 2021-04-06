@@ -10,4 +10,7 @@ var Quotes = []string{
 	"The essence of strategy is choosing what not to do.",
 	"Weak people revenge. Strong people forgive. Intelligent People Ignore.",
 	"A mind is like a parachute. It doesn't work if it is not open.",
+	"A person who never made a mistake never tried anything new.",
+	"I never think of the future - it comes soon enough.",
+	"Failure is simply the opportunity to begin again, this time more intelligently.",
 }
